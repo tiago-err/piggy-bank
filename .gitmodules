@@ -1,3 +1,6 @@
 [submodule "piggy-bank-server"]
 	path = piggy-bank-server
 	url = git@github.com:tiago-err/piggy-bank-server.git
+[submodule "piggy-bank-ui"]
+	path = piggy-bank-ui
+	url = git@github.com:tiago-err/piggy-bank-ui.git
